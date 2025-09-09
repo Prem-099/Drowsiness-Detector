@@ -27,12 +27,12 @@ It alerts the user when signs of sleepiness (like eye closure or yawning) are de
 ## 📂 Project Structure
 ```bash
 Drowsiness-Detection/
-│── dataset/                # (optional) sample face/eye dataset
-│── models/                 # pre-trained models (dlib, mediapipe, etc.)
-│── alarm.wav               # alert sound
-│── drowsiness_detect.py    # main script
-│── requirements.txt        # dependencies
-│── README.md               # project documentation
+│── README.md                                   # project documentation
+│── detector.py                                 # main script 
+│── requirements.txt                            # requirements to run
+│── shape_predictor_68_face_landmarks.dat       # pre-trained models (dlib, mediapipe, etc.)
+│── warning-alarm-loop-1-279206.mp3             # alert sound
+│── warning-sound-6686.mp3                      # alert sound
 ```
 
 ## 🚀 Installation & Usage
