@@ -1,5 +1,0 @@
-2025-07-21 23:59:39,958 - Drowsiness detected
-2025-07-21 23:59:40,163 - Drowsiness detected
-2025-07-21 23:59:40,290 - Drowsiness detected
-2025-07-21 23:59:40,420 - Drowsiness detected
-2025-07-21 23:59:40,552 - Drowsiness detected
