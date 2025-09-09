@@ -1,0 +1,114 @@
+2025-07-21 23:41:35,267 - Blink #1
+2025-07-21 23:41:40,019 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:40,626 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:40,719 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:40,809 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:40,899 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:40,989 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:41,082 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:41,171 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:41,283 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:41,391 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:41,665 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:41,773 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:41,862 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:41,955 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:42,049 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:42,231 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:42,325 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:42,421 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:42,513 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:41:42,604 - Blink #2
+2025-07-21 23:41:42,786 - Blink #3
+2025-07-21 23:41:43,067 - Blink #4
+2025-07-21 23:41:59,085 - Blink #5
+2025-07-21 23:41:59,657 - Blink #6
+2025-07-21 23:42:01,257 - Blink #7
+2025-07-21 23:42:02,688 - Blink #8
+2025-07-21 23:42:11,822 - Blink #9
+2025-07-21 23:42:15,364 - Blink #10
+2025-07-21 23:42:15,543 - Blink #11
+2025-07-21 23:42:16,104 - Blink #12
+2025-07-21 23:42:17,766 - Blink #13
+2025-07-21 23:42:19,991 - Blink #14
+2025-07-21 23:42:21,244 - Blink #15
+2025-07-21 23:42:22,451 - Blink #16
+2025-07-21 23:42:24,559 - Blink #17
+2025-07-21 23:42:26,906 - Blink #18
+2025-07-21 23:42:28,699 - Blink #19
+2025-07-21 23:42:28,879 - Blink #20
+2025-07-21 23:42:29,185 - Blink #21
+2025-07-21 23:42:29,766 - Blink #22
+2025-07-21 23:42:29,945 - Blink #23
+2025-07-21 23:42:30,431 - Blink #24
+2025-07-21 23:42:30,698 - Blink #25
+2025-07-21 23:42:31,081 - Blink #26
+2025-07-21 23:42:31,648 - Blink #27
+2025-07-21 23:42:32,004 - Blink #28
+2025-07-21 23:42:34,454 - Blink #29
+2025-07-21 23:42:35,256 - Blink #30
+2025-07-21 23:42:35,934 - Blink #31
+2025-07-21 23:42:39,376 - Blink #32
+2025-07-21 23:42:43,977 - Blink #33
+2025-07-21 23:42:45,666 - Blink #34
+2025-07-21 23:42:46,962 - Blink #35
+2025-07-21 23:42:49,003 - Blink #36
+2025-07-21 23:42:50,254 - Blink #37
+2025-07-21 23:42:52,390 - Blink #38
+2025-07-21 23:42:55,025 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,116 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,204 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,295 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,385 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,476 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,566 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,662 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,749 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,839 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:55,929 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,017 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,107 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,198 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,287 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,379 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,488 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,577 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,668 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,761 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,850 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:42:56,941 - Blink #39
+2025-07-21 23:42:59,986 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,087 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,182 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,271 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,363 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,450 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,560 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,647 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,736 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,825 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:00,912 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:01,004 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:01,094 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:01,181 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:01,270 - \u26a0\ufe0f Drowsiness detected
+2025-07-21 23:43:01,361 - Blink #40
+2025-07-21 23:43:02,207 - Blink #41
+2025-07-21 23:43:02,652 - Blink #42
+2025-07-21 23:43:03,549 - Blink #43
+2025-07-21 23:43:03,758 - Blink #44
+2025-07-21 23:43:04,165 - Blink #45
+2025-07-21 23:43:04,413 - Blink #46
+2025-07-21 23:43:05,276 - Blink #47
+2025-07-21 23:43:05,817 - Blink #48
+2025-07-21 23:43:06,820 - Blink #49
+2025-07-21 23:43:19,078 - Blink #50
+2025-07-21 23:43:22,542 - Blink #51
+2025-07-21 23:43:23,463 - Blink #52
+2025-07-21 23:43:23,823 - Blink #53
+2025-07-21 23:43:24,088 - Blink #54
+2025-07-21 23:43:24,356 - Blink #55
+2025-07-21 23:43:24,770 - Blink #56
+2025-07-21 23:43:25,038 - Blink #57
+2025-07-21 23:43:25,663 - Blink #58
+2025-07-21 23:43:28,395 - Blink #59
