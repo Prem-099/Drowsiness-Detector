@@ -5,7 +5,6 @@ import datetime
 import logging
 import pygame
 
-# ---------- SETUP ----------
 
 # Function to calculate Eye Aspect Ratio (EAR)
 def eye_aspect_ratio(eye):
@@ -15,7 +14,6 @@ def eye_aspect_ratio(eye):
     ear = (A + B) / (2.0 * C)
     return ear
 
-# Load face detector and landmark predictor from dlib
 detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat")
 
@@ -28,7 +26,6 @@ blink_counter = 0
 drowsy_counter = 0
 logging.basicConfig(filename='drowsiness_log.txt', level=logging.INFO)
 
-# ---------- START CAMERA ----------
 cap = cv2.VideoCapture(0)
 pygame.mixer.init()
 
@@ -41,7 +38,6 @@ while True:
     faces = detector(gray)
 
     for face in faces:
-        # Predict facial landmarks
         shape = predictor(gray, face)
         shape = [(shape.part(i).x, shape.part(i).y) for i in range(68)]
 
@@ -58,7 +54,6 @@ while True:
         for (x, y) in shape:
             cv2.circle(frame, (x, y), 1, (0, 255, 0), -1)
 
-        # EAR below threshold -> possible blink or drowsy
         if ear < 0.23:
             drowsy_counter += 1
             if drowsy_counter >= 15:
@@ -83,6 +78,5 @@ while True:
     if cv2.waitKey(1) == 27:  # ESC key to exit
         break
 
-# ---------- CLEANUP ----------
 cap.release()
 cv2.destroyAllWindows()
